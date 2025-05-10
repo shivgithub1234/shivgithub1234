@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python libraries
 - 💞️ I’m looking to collaborate on my project focussing computer vision
 - 📫 How to reach me mail:23ucs707@lnmiit.ac.in
-- 😄 Pronouns:
+- 😄 Pronouns:He,Him
 - ⚡ Fun fact: I'm an Avenger fan
 
 <!---
