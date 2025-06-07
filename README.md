@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shivgithub1234
-- 👀 I’m interested in code snippets and deep learning
-- 🌱 I’m currently learning python libraries
+- 👀 I’m interested in developing applications through code and deep learning
 - 💞️ I’m looking to collaborate on my project focussing computer vision
 - 📫 How to reach me mail:23ucs707@lnmiit.ac.in
 - 😄 Pronouns:He,Him
