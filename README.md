@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shivgithub1234
 - 👀 I’m interested in developing applications through code and deep learning
 - 💞️ I’m looking to collaborate on my project focussing computer vision
-- 📫 How to reach me mail:23ucs707@lnmiit.ac.in
+- 📫 How to reach me mail:shivammishradev707@gmail.com
 - 😄 Pronouns:He,Him
 - ⚡ Fun fact: I'm an Avenger fan
 
