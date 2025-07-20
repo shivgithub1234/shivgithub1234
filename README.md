@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shivammishradev/](https://www.linkedin.com/in/shivammishradev/)
 
-- ⚡ Fun fact **I think you are not Impressed**
+- ⚡  **Greetings from me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
