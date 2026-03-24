@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivgithub1234" alt="shivgithub1234" /></a> </p>
 
-- My Resume: [Link]([https://drive.google.com/file/d/1KVpvxJa0mFAULjR5EN4xSNfrZp0lFcB7/view?usp=sharing](https://drive.google.com/file/d/1nonRBZTSYGSfbs0nkgtY-It1t4v8QwTB/view?usp=sharing)
+- My Resume: [Link][https://drive.google.com/file/d/1KVpvxJa0mFAULjR5EN4xSNfrZp0lFcB7/view?usp=sharing](https://drive.google.com/file/d/1nonRBZTSYGSfbs0nkgtY-It1t4v8QwTB/view?usp=sharing)
 - 👨‍💻 All of my projects are available at [https://portfolio-shivam-dev.lovable.app/](https://portfolio-shivam-dev.lovable.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@23ucs707](https://medium.com/@23ucs707)
